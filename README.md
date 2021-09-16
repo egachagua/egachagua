@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @egachagua
+- 👀 I’m interested in front-end web development.
+- 🌱 I’m currently learning Responsive Web Design 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ephraim.gachagua@gmail.com
